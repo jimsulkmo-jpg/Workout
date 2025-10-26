@@ -1,0 +1,5 @@
+{
+  "name": "Modern Workout Tracker",
+  "description": "A sleek, modern iOS-style web application to create workout sets, log sessions, track progress with a radar chart, and manage personal settings.",
+  "requestFramePermissions": []
+}
